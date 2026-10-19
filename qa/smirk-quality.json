@@ -1,0 +1,66 @@
+{
+  "ok": true,
+  "atlas": "variants/smirk/spritesheet.png",
+  "encoded_bytes": 2749630,
+  "sha256": "60bcba517848f4ce83c1e176cb8bea9211e6eb83e0971406787f9bd97718af3b",
+  "jump": {
+    "idle_baseline": 202,
+    "jump_baselines": [
+      202,
+      196,
+      188,
+      198,
+      202
+    ],
+    "airborne_lift_pixels": 14,
+    "landing_delta_pixels": 0
+  },
+  "look_registration": {
+    "neutral_center_x": 96.0,
+    "look_centers_x": [
+      95.5,
+      91.5,
+      90.5,
+      90.0,
+      91.0,
+      91.0,
+      92.5,
+      93.0,
+      95.0,
+      97.5,
+      100.0,
+      99.0,
+      102.5,
+      104.5,
+      103.5,
+      102.0
+    ],
+    "look_widths": [
+      127,
+      123,
+      123,
+      120,
+      120,
+      120,
+      121,
+      122,
+      116,
+      117,
+      116,
+      114,
+      119,
+      117,
+      117,
+      122
+    ],
+    "maximum_center_drift_pixels": 8.5,
+    "maximum_width_ratio": 1.1140350877192982
+  },
+  "errors": [],
+  "warnings": [
+    "look direction 067.5 accepted with a reviewed warning",
+    "look direction 112.5 accepted with a reviewed warning",
+    "look direction 337.5 accepted with a reviewed warning",
+    "337.5->000 diff is a local outlier (3511 pixels vs neighbor average 2166)"
+  ]
+}

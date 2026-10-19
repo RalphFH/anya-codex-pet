@@ -1,0 +1,66 @@
+{
+  "ok": true,
+  "atlas": "spritesheet.png",
+  "encoded_bytes": 2513215,
+  "sha256": "1af06516e9088028e7999caba58daa51963a5a3d056ee235c70accfc5586706f",
+  "jump": {
+    "idle_baseline": 202,
+    "jump_baselines": [
+      200,
+      192,
+      175,
+      194,
+      201
+    ],
+    "airborne_lift_pixels": 26,
+    "landing_delta_pixels": 1
+  },
+  "look_registration": {
+    "neutral_center_x": 96.0,
+    "look_centers_x": [
+      97.0,
+      89.5,
+      87.0,
+      86.5,
+      88.0,
+      88.5,
+      93.0,
+      94.5,
+      96.5,
+      99.0,
+      98.0,
+      101.0,
+      100.0,
+      100.5,
+      99.5,
+      99.5
+    ],
+    "look_widths": [
+      114,
+      111,
+      108,
+      107,
+      106,
+      107,
+      110,
+      113,
+      115,
+      114,
+      114,
+      112,
+      110,
+      113,
+      119,
+      117
+    ],
+    "maximum_center_drift_pixels": 9.5,
+    "maximum_width_ratio": 1.1226415094339623
+  },
+  "errors": [],
+  "warnings": [
+    "look direction 067.5 accepted with a reviewed warning",
+    "look direction 202.5 accepted with a reviewed warning",
+    "000->022.5 diff is a local outlier (2518 pixels vs neighbor average 1672)",
+    "157.5->180 diff is a local outlier (2916 pixels vs neighbor average 1696)"
+  ]
+}
